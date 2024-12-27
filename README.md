@@ -1,6 +1,4 @@
-Below is the `README.md` file content you can copy and include in your GitHub repository for your project:
 
----
 
 # **Selenium Twitter Scraper**
 
