@@ -9,7 +9,7 @@ const app = express();
 const port = 3000;
 
 // MongoDB connection 
-mongoose.connect('mongodb://localhost:27017/twitterTrends', {
+mongoose.connect('mongodb://localhost:27017/trendsonTwitter', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
